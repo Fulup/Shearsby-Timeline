@@ -5,4 +5,4 @@ Identifying the key moments in village history might help to:
 <li>Inspire school projects to further investigate village life in the past.</li>
 <li>Encourage visitors and residents to appreciate the village and understand its development through time.</li>
 </ul>
-<p><a href="https://github.com/Fulup/Shearsby-Timeline/edit/master/Menu.html">Menu</p>
+<p><a href="https://github.com/Fulup/Shearsby-Timeline/master/Menu.html">Menu</p>
